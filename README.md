@@ -1,0 +1,3 @@
+# NodeJsTemplate
+
+npm install
